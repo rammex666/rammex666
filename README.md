@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="100"/>
-<div id="badges">
+<div id="view">
   <img src="https://komarev.com/ghpvc/?username=rammex666&style=flat-square&color=blue" alt=""/>
 </div>
 <h1>
